@@ -2,3 +2,6 @@ google-api-python-client
 PyPDF2
 transformers
 flask
+torch
+python-dotenv
+ollama
